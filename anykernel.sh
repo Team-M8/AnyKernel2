@@ -3,11 +3,11 @@
 
 ## AnyKernel setup
 # EDIFY properties
-kernel.string=Hypernova, Powered by ElementalX and FrancoKernel
+kernel.string=Team-M8 kernel
 do.devicecheck=1
 do.initd=0
-do.modules=1
-do.cleanup=1
+do.modules=0
+do.cleanup=0
 device.name1=m8
 device.name2=m8whl
 device.name3=m8wl
